@@ -1,1 +1,1 @@
-# CapstoneProj-Batch12
+# CapstoneProj6-Batch12
